@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+
+#comments 
+The restAPI is not connected with the login methods and a local user management system is used. 
+The applicain is developed with react and redux toolkit is used for state management.
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
